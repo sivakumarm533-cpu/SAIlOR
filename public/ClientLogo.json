@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "logo": "assets/images/clientlogos/belimo.png"
+  },
+  {
+    "id": 2,
+    "logo": "assets/images/clientlogos/citrus.png"
+  },
+  {
+    "id": 3,
+    "logo": "assets/images/clientlogos/grabyo.png"
+  },
+  {
+    "id": 4,
+    "logo": "assets/images/clientlogos/lifegroups.png"
+  },
+  {
+    "id": 5,
+    "logo": "assets/images/clientlogos/myob.png"
+  },
+  {
+    "id": 6,
+    "logo": "assets/images/clientlogos/trustly.png"
+  }
+]

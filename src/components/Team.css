@@ -1,0 +1,22 @@
+.team .employee{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 640px;
+    height: 250px;
+}
+.teamSocialLinks a{
+    border: 1px solid #858383;
+    border-radius: 10%;
+    padding: 5px 8px 5px;
+    font-size: large;
+    margin-right: 6px;
+    color: #858383;
+    transition: 0.5s;
+}
+.teamSocialLinks a:hover{
+    color: red !important;
+    border-color: red !important;
+}
+.employee:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px !important;
+}

@@ -1,0 +1,29 @@
+.underlineabout::before{
+    content: " ";
+    position: absolute;
+    top:10px;
+    left: 60px;
+    height: 1px;
+    width: 90px;
+    background-color: red;
+}
+.underlineportfolio::before{
+    content: " ";
+    position: absolute;
+    top:10px;
+    left: 90px;
+    height: 1px;
+    width: 90px;
+    background-color: red;
+}
+.underlineskill{
+    content: " ";
+    position: absolute;
+    top:14px;
+    left: 160px;
+    height: 1px;
+    width: 110px;
+    background-color: red;
+}
+
+/* align all section */

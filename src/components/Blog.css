@@ -1,0 +1,23 @@
+.blogArtical{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.ArticalImage img{
+    width: 100%;
+}
+
+.ArticalHead p{
+    font-size: small;
+}
+.Artical-button{
+    text-align: end;
+}
+
+
+/* Aside bar */
+
+.Asidebar{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}

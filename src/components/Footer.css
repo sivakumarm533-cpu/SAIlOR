@@ -1,0 +1,31 @@
+.footer{
+    background-color: #3b4654;
+    color: white;
+}
+.socialLinks a{
+    border: 1px solid #858383;
+    border-radius: 50%;
+    padding: 5px 8px 5px;
+    font-size: large;
+    margin-right: 6px;
+    color: #858383;
+    transition: 0.5s ease, transform 0.3s ease;
+}
+.socialLinks a:hover{
+    color: red !important;
+    border-color: red;
+}
+
+.footerinput input{
+    height: 38px;
+    background-color: #85838389;
+    border: 1px solid #858383;
+    border-radius: 5px 0px 0px 5px;
+}
+
+.footerinput button{
+    border: #858383;
+}
+.form-control:focus{
+    box-shadow: none !important;
+}

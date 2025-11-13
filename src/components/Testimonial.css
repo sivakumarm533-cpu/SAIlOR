@@ -1,0 +1,10 @@
+.testimonial .heads{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    width: 640px;
+    height: 250px;
+}
+.headsImg img{
+    height: 100px;
+    border-radius: 50%;
+}

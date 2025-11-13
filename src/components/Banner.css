@@ -1,0 +1,28 @@
+.carousel-item{
+    height: 600px;
+}
+.carousel-item .overlay{
+    background-color: rgba(0, 0, 0, 0.292) !important;
+}
+.carousel-caption {
+  top: 40%;
+}
+.bg-dark {
+    background-color: rgba(33, 37, 41, 0.5) !important;
+}
+.carousel-item img{
+  width:100%;
+}
+#carousel-imageOne{
+  background-image: url(../assets/images/bannerimg/banner1.png);
+}
+#carousel-imageTwo{
+  background-image: url(../assets/images/bannerimg/banner2.png);
+}
+#carousel-imageThree{
+  background-image: url(../assets/images/bannerimg/banner3.png);
+}
+#carousel-imageOne, #carousel-imageTwo,  #carousel-imageThree{
+  background-repeat: no-repeat;
+  background-size: cover;
+}

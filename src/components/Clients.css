@@ -1,0 +1,12 @@
+.clients{
+    background-color: #f2f4f6;
+}
+.clientlogo img{
+    width: 110px;
+    margin: 20px;
+    filter: grayscale(100%);
+    transition: 0.3s;
+}
+.clientlogo img:hover{
+    filter: grayscale(0%);
+}

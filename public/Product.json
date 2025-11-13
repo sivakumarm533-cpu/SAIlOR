@@ -1,0 +1,11 @@
+[
+  { "id": 1, "image": "../public/products/masonry-portfolio-1.jpg", "title": "App 1" },
+  { "id": 2, "image": "../../public/products/masonry-portfolio-2.jpg", "title": "Web 1" },
+  { "id": 3, "image": "../../public/products/masonry-portfolio-3.jpg", "title": "Card 1" },
+  { "id": 4, "image": "../../public/products/masonry-portfolio-4.jpg", "title": "App 2" },
+  { "id": 5, "image": "../../public/products/masonry-portfolio-5.jpg", "title": "Web 2" },
+  { "id": 6, "image": "../../public/products/masonry-portfolio-6.jpg", "title": "Card 2" },
+  { "id": 7, "image": "../../public/products/masonry-portfolio-7.jpg", "title": "Web 2" },
+  { "id": 8, "image": "../../public/products/masonry-portfolio-8.jpg", "title": "Card" },
+  { "id": 9, "image": "../../public/products/masonry-portfolio-9.jpg", "title": "Web 2" }
+]

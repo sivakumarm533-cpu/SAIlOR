@@ -1,0 +1,44 @@
+
+.AboutTwoleftImg{
+    height: 550px;
+    width: 200px;
+    background-image: url(../assets/images/bannerimg/aboutbg.png);
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.AboutTwoleftImg img{
+    height: 100%;
+    z-index: 2;
+    bottom: -30px;
+    left: 50px;
+}
+
+.abouttwocount{
+    background-color: #f2f4f6;
+}
+.underlineabouttwo{
+    content: " ";
+    position: absolute;
+    top:70px;
+    left: 40%;
+    height: 2px;
+    width: 20%;
+    background-color: red;
+}
+.abouttwocount h1{
+    padding-bottom: 10px;
+}
+
+.nav-link {
+    display: block;
+    padding: 0px;
+    color: #000000;
+}
+.nav-link:hover {
+    color: #000000;
+}
+.nav-link:focus{
+    color: red;
+    text-decoration: underline;
+}
