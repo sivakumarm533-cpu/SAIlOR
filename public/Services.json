@@ -1,38 +1,38 @@
 [
-    {
-        "id":1,
-        "title":"lorem servies",
-        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../public/servicesicon/briefcase.png"
-    },
-    {
-        "id":2,
-        "title":"lorem servies",
-        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../public/servicesicon/shopping-list.png"
-    },
-    {
-        "id":3,
-        "title":"lorem servies",
-        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../public/servicesicon/signal-bars.png"
-    },
-    {
-        "id":4,
-        "title":"lorem servies",
-        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../public/servicesicon/find.png"
-    },
-    {
-        "id":5,
-        "title":"lorem servies",
-        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../public/servicesicon/sun.png"
-    },
-    {
-        "id":6,
-        "title":"lorem servies",
-        "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../public/servicesicon/calendar.png"
-    }
+  {
+    "id": 1,
+    "title": "lorem services",
+    "description": "Voluptatum deleniti atque corrupti quos dolores...",
+    "icon": "/servicesicon/briefcase.png"
+  },
+  {
+    "id": 2,
+    "title": "lorem services",
+    "description": "Voluptatum deleniti atque corrupti quos dolores...",
+    "icon": "/servicesicon/shopping-list.png"
+  },
+  {
+    "id": 3,
+    "title": "lorem services",
+    "description": "Voluptatum deleniti atque corrupti quos dolores...",
+    "icon": "/servicesicon/signal-bars.png"
+  },
+  {
+    "id": 4,
+    "title": "lorem services",
+    "description": "Voluptatum deleniti atque corrupti quos dolores...",
+    "icon": "/servicesicon/find.png"
+  },
+  {
+    "id": 5,
+    "title": "lorem services",
+    "description": "Voluptatum deleniti atque corrupti quos dolores...",
+    "icon": "/servicesicon/sun.png"
+  },
+  {
+    "id": 6,
+    "title": "lorem services",
+    "description": "Voluptatum deleniti atque corrupti quos dolores...",
+    "icon": "/servicesicon/calendar.png"
+  }
 ]
