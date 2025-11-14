@@ -30,7 +30,7 @@ const Services = () => {
                             <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
                         </div>
                     </div> */}
-                    <div class="serviceitem d-flex justify-content-end">
+                    <div class="serviceitem d-flex justify-content-end g-5">
                          <FaBriefcase className='icon' />
                     <div className='servicesContent'>
                          <h5><a href="#">Lorem Ipsum</a></h5>
