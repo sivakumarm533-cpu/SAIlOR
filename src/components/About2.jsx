@@ -2,26 +2,26 @@ import React from 'react'
 import '../components/About2.css'
 import AboutImg from '../assets/images/bannerimg/aboutbanner.png'
 import { FaCheck } from "react-icons/fa6";
-import Tab from "../../public/data/TabAbout.json"
+import Tab from "../data/TabAbout.json"
 
 
 const About2 = () => {
   return (
     <>
     <section className='abouttwo'>
-        <div className="container mt-5 mb-5 py-5">
+        <div className="container mt-md-5 mt-2 mb-5 py-5">
             <div className="row">
-                <div className="col-xl-5 col-lg-6 col-md-12 col-sm-12 mb-4" data-aos="fade-up" data-aos-duration="700"data-aos-offset="100">
-                    <div className='AboutTwoleftImg position-relative t-0'>
-                        <img src={AboutImg} alt="about" className='position-absolute' />
+                <div className="col-xl-5 col-lg-6 col-md-12 col-sm-12 col-12 mb-4 " data-aos="fade-up" data-aos-duration="700"data-aos-offset="100">
+                    <div className='AboutTwoleftImg'>
+                        <img src={AboutImg} alt="about" className='position-absolute img-fluid h-100 w-sm-100' />
                     </div>
                 </div>
-                <div className="col-xl-7 col-lg-6 col-md-12 col-sm-12 " data-aos="fade-up" data-aos-duration="700"data-aos-offset="100">
+                <div className="col-xl-7 col-lg-6 col-md-12 col-sm-12 col-12 " data-aos="fade-up" data-aos-duration="700"data-aos-offset="100">
                     <div className='rightContant mt-4 ms-3'>
                         <h2>Neque officiis dolore maiores et exercitationem quae est seda lidera pat claero</h2>
                        <div className='nav_tabs mt-3'>
                             <ul class="nav">
-                                <li class="nav-item pe-4">
+                                <li className="nav-item pe-4">
                                     <a class="nav-link active" 
                                     id='one' 
                                     data-bs-toggle='tab' 
@@ -29,14 +29,14 @@ const About2 = () => {
                                     aria-current="page" 
                                     href="nav-tabone">Saepe fuga</a>
                                 </li>
-                                <li class="nav-item ps-4 pe-4">
+                                <li className="nav-item ps-4 pe-4">
                                     <a class="nav-link" 
                                     id='two'
                                     data-bs-toggle='tab'
                                     role='tab'
                                     href="nav-tabtwo">Voluplyal</a>
                                 </li>
-                                <li class="nav-item ps-4 pe-4">
+                                <li className="nav-item ps-4 pe-4">
                                     <a class="nav-link" 
                                     id='three' 
                                     data-bs-toggle='tab' 

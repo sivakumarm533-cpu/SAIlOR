@@ -1,7 +1,7 @@
 import React from 'react'
 import '../components/Blog.css'
-import Img from '../../public/blog/image1.png'
-import Img2 from '../../public/blog/image2.png'
+import Img from '/blog/image1.png'
+import Img2 from '/blog/image2.png'
 import { IoPersonCircleOutline } from "react-icons/io5";
 import { CiClock2 } from "react-icons/ci";
 import { AiOutlineMessage } from "react-icons/ai";

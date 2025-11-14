@@ -5,16 +5,16 @@ import { RiDoubleQuotesR } from "react-icons/ri";
 
 
 const testimonial =[
-    {id:1 ,image:'../../public/products/t1.png' ,name:"Saul Goodman" ,position:"Ceo & Founder" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper."},
-    {id:2 ,image:'../../public/products/t2.png' ,name:"Sara Wilsson" ,position:"Designer" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et."},
-    {id:3 ,image:'../../public/products/t3.png' ,name:"Jena Karlis" ,position:"Store Owner" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et."},
-    {id:4 ,image:'../../public/products/t4.png' ,name:"Metta jhon" ,position:"Freelancer" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et."}
+    {id:1 ,image:'/products/t1.png' ,name:"Saul Goodman" ,position:"Ceo & Founder" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper."},
+    {id:2 ,image:'/products/t2.png' ,name:"Sara Wilsson" ,position:"Designer" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et."},
+    {id:3 ,image:'/products/t3.png' ,name:"Jena Karlis" ,position:"Store Owner" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et."},
+    {id:4 ,image:'/products/t4.png' ,name:"Metta jhon" ,position:"Freelancer" ,description:"Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et."}
 ]
 
 const Testimonial = () => {
   return (
     <>
-    <section className='testimonial mt-5 mb-5'>
+    <section className='testimonial my-5 mx-2'>
     <div className="container">
     <div className='row d-flex justify-content-center'>
             {testimonial.map((person) => (

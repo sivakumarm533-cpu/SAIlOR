@@ -1,12 +1,5 @@
 .serviceitem{
     border: 1px solid gray;
-    margin: 10px;
-}
-.serviceitem .icon{
-    font-size: 60px;
-    margin: 15px;
-    padding-left: 0;
-    
 }
 .servicesContent{
     padding: 20px 0px;

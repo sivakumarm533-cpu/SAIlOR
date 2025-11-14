@@ -13,24 +13,24 @@ const Clients = () => {
    <>
    <section className='clients pt-4 pb-4'>
     <div className='container'>
-        <div className='row gy-4 '>
-            <div className='clientlogo co-sm-12 col-md-4 col-lg-2' >
-                <img src={Cl1} className='d-flex justify-content-center align-items-center overflow-hidden' alt="clientlogo" />
+        <div className='row gy-4 gx-5 align-items-center justify-content-center'>
+            <div className='clientlogo col-12 col-sm-12 col-md-4 col-lg-2 text-center' >
+                <img src={Cl1} className='w-100 p-4'  alt="clientlogo" />
             </div>
-            <div className='clientlogo co-sm-12 col-md-4 col-lg-2' >
-                <img src={Cl2} className='d-flex justify-content-center align-items-center overflow-hidden' alt="clientlogo" />
+            <div className='clientlogo col-12 col-sm-12 col-md-4 col-lg-2 text-center' >
+                <img src={Cl2} className='w-100 p-4' alt="clientlogo" />
             </div>
-            <div className='clientlogo co-sm-12 col-md-4 col-lg-2' >
-                <img src={Cl3} className='d-flex justify-content-center align-items-center overflow-hidden' alt="clientlogo" />
+            <div className='clientlogo col-12 col-sm-12 col-md-4 col-lg-2 text-center' >
+                <img src={Cl3} className='w-100 p-4' alt="clientlogo" />
             </div>
-            <div className='clientlogo co-sm-12 col-md-4 col-lg-2' >
-                <img src={Cl4} className='d-flex justify-content-center align-items-center overflow-hidden' alt="clientlogo" />
+            <div className='clientlogo col-12 col-sm-12 col-md-4 col-lg-2 text-center' >
+                <img src={Cl4} className='w-100 p-4 ' alt="clientlogo" />
             </div>
-            <div className='clientlogo co-sm-12 col-md-4 col-lg-2' >
-                <img src={Cl5} className='d-flex justify-content-center align-items-center overflow-hidden' alt="clientlogo" />
+            <div className='clientlogo col-12 col-sm-12 col-md-4 col-lg-2 text-center' >
+                <img src={Cl5} className='w-100 p-4' alt="clientlogo" />
             </div>
-            <div className='clientlogo co-sm-12 col-md-4 col-lg-2'>
-                <img src={Cl6} className='d-flex justify-content-center align-items-center overflow-hidden' alt="clientlogo" />
+            <div className='clientlogo col-12 col-sm-12 col-md-4 col-lg-2 text-center'>
+                <img src={Cl6} className='w-100 p-4' alt="clientlogo" />
             </div>
         </div>
     </div>

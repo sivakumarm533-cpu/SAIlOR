@@ -4,7 +4,7 @@ import '../components/Skills.css'
 const Skills = () => {
   return (
     <>
-    <section className='skills mt-5 mb-5' data-aos="fade-up" data-aos-duration="700"data-aos-offset="100">
+    <section className='skills my-5 mx-2' data-aos="fade-up" data-aos-duration="700"data-aos-offset="100">
         <div className="container">
             <div>
                 <h5>Skills</h5>

@@ -2,7 +2,7 @@ import React from 'react'
 import '../components/About.css'
 import { MdOutlineTaskAlt } from "react-icons/md";
 import { FaArrowRight } from "react-icons/fa6";
-import AboutInfo from "../../public/data/AboutInfo.json"
+import AboutInfo from "../data/AboutInfo.json"
 
 const About = () => {
   return (

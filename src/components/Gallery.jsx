@@ -1,4 +1,3 @@
-import React from 'react'
 import { useEffect , useState } from 'react'
 import '../components/Gallery.css'
 import Masonry from "react-masonry-css"; 

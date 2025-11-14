@@ -8,16 +8,16 @@ import { FaLinkedin } from "react-icons/fa6";
 import { Link } from 'react-router-dom';
 
 const team =[
-    {id:1, image:'../../public/products/team-1.jpg' ,name:"walter wight" ,position:"Chiff Excutive officer" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"},
-    {id:2, image:'../../public/products/team-2.jpg' ,name:"Sarra jamson" ,position:"Product Manager" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"},
-    {id:3, image:'../../public/products/team-3.jpg' ,name:"William romer" ,position:"CTO" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"},
-    {id:4, image:'../../public/products/team-4.jpg' ,name:"Amada josh" ,position:"Accountant" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"}
+    {id:1, image:'/products/team-1.jpg' ,name:"walter wight" ,position:"Chiff Excutive officer" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"},
+    {id:2, image:'/products/team-2.jpg' ,name:"Sarra jamson" ,position:"Product Manager" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"},
+    {id:3, image:'/products/team-3.jpg' ,name:"William romer" ,position:"CTO" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"},
+    {id:4, image:'/products/team-4.jpg' ,name:"Amada josh" ,position:"Accountant" ,descrioption :"Explicabo voluptatem mollitia et repellat qui dolorum quasi"}
 ]
 
 const Team = () => {
   return (
     <>
-    <section className='team mb-5 mt-5'>
+    <section className='team my-5 mx-2'>
         <div className="container">
             <div className="row d-flex gap-4 justify-content-center">
                 {team.map((members)=>(
