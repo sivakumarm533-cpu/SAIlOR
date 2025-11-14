@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react'
 import '../components/Services.css'
-import { FaBriefcase } from "react-icons/fa";
+import { FaBriefcase } from "react-icons/fa6";
 import { MdOutlineViewList } from "react-icons/md";
 import { HiMiniChartBar } from "react-icons/hi2";
 import { FaMagnifyingGlassDollar } from "react-icons/fa6";
 import { AiFillSun } from "react-icons/ai";
-import { FaCalendarAlt } from "react-icons/fa";
+import { FaCalendarAlt } from "react-icons/fa6";
 import Aos from 'aos';
 import 'aos/dist/aos.css';
 

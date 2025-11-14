@@ -1,7 +1,7 @@
 import React from 'react'
-import '../components/About2.CSS'
+import '../components/About2.css'
 import AboutImg from '../assets/images/bannerimg/aboutbanner.png'
-import { FaCheck } from "react-icons/fa";
+import { FaCheck } from "react-icons/fa6";
 import Tab from "../../public/data/TabAbout.json"
 
 

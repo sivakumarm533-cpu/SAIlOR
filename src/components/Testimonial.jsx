@@ -1,5 +1,5 @@
 import React from 'react'
-import '../components/testimonial.css'
+import '../components/Testimonial.css'
 import { RiDoubleQuotesL } from "react-icons/ri";
 import { RiDoubleQuotesR } from "react-icons/ri";
 

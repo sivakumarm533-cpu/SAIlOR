@@ -3,36 +3,36 @@
         "id":1,
         "title":"lorem servies",
         "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../../public/servicesicon/briefcase.png"
+        "icon":"../public/servicesicon/briefcase.png"
     },
     {
         "id":2,
         "title":"lorem servies",
         "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../../public/servicesicon/shopping-list.png"
+        "icon":"../public/servicesicon/shopping-list.png"
     },
     {
         "id":3,
         "title":"lorem servies",
         "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../../public/servicesicon/signal-bars.png"
+        "icon":"../public/servicesicon/signal-bars.png"
     },
     {
         "id":4,
         "title":"lorem servies",
         "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../../public/servicesicon/find.png"
+        "icon":"../public/servicesicon/find.png"
     },
     {
         "id":5,
         "title":"lorem servies",
         "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../../public/servicesicon/sun.png"
+        "icon":"../public/servicesicon/sun.png"
     },
     {
         "id":6,
         "title":"lorem servies",
         "description":"Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident",
-        "icon":"../../public/servicesicon/calendar.png"
+        "icon":"../public/servicesicon/calendar.png"
     }
 ]
