@@ -21,7 +21,7 @@ const banner = () => {
        {/* caption */}
       <div class="carousel-caption d-md-block">
         <h1  data-aos="fade-down" data-aos-duration="1100">Welcome to Sailor</h1>
-        <p className='mt-5' data-aos="fade-down" data-aos-duration="700">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p className='mt-5' data-aos="fade-down" data-aos-duration="700">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
         <button class="btn btn-danger mt-2 pe-4 ps-4" type="submit" data-aos="fade-up" data-aos-duration="1000" >Get Started</button>
       </div>
     </div>
@@ -33,7 +33,7 @@ const banner = () => {
        {/* caption */}
       <div class="carousel-caption  d-md-block">
         <h1 data-aos="fade-down" data-aos-duration="1100" >At vero eos et accusamus</h1>
-        <p className='mt-5' data-aos="fade-down" data-aos-duration="700" >Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
+        <p className='mt-5' data-aos="fade-down" data-aos-duration="700" >Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus. </p>
         <button class="btn btn-danger mt-2 pe-4 ps-4" type="submit" data-aos="fade-up" data-aos-duration="1000" >Get Started</button>
       </div>
     </div>
@@ -45,7 +45,7 @@ const banner = () => {
        {/* caption */}
       <div class="carousel-caption d-md-block">
         <h1 data-aos="fade-down" data-aos-duration="1100" >Temporibus autem quibusdam</h1>
-        <p className='mt-5' data-aos="fade-down" data-aos-duration="700" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <p className='mt-5' data-aos="fade-down" data-aos-duration="700" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         <button class="btn btn-danger mt-2 pe-4 ps-4" type="submit" data-aos="fade-up" data-aos-duration="1000" >Get Started</button>
       </div>
     </div>
